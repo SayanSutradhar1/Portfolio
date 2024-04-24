@@ -27,6 +27,13 @@ export const myProjects = [
         src : "https://sayansutradhar1.github.io/Stone-Paper-Scissor-Game/",
         description : 'A school game in a modern era , enjoy the physical mode in your srceen'
     },
+    {
+        id:5,
+        name : "Amrutam Landing Page",
+        image : "https://www.lifewire.com/thmb/jdNwRe1mIhF2vTyUm9bj-jdI8fU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/home-button-2ed446e65338405a9f92f99bdfb3368f.png",
+        src : "https://amrutamhome.vercel.app",
+        description : "A Landing home page of a organisation"
+    }
 
 ]
 // https://newlisttodo.netlify.app
@@ -65,5 +72,12 @@ export const projectList = [
         description : "etur adipisicing elit. Iste sed aliquid error consequuntur magnam nulla, ea a, ",
         repo : "https://github.com/SayanSutradhar1/Stone-Paper-Scissor-Game",
     },
+    {
+        id : 5,
+        level : "Begineer",
+        name : "Amurtam Landing page",
+        techStack : "React , Tailwind CSS",
+        repo : "https://github.com/SayanSutradhar1/amrutamHomePage"
+    }
 ]
 
